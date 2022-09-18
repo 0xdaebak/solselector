@@ -1,7 +1,7 @@
 
 # solselector
 
-Get The 4 byte Selector/Method Signature of any function
+⚓ Get The 4 byte Selector/Method Signature of any function
 
 
 ## Installation
