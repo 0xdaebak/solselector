@@ -1,0 +1,29 @@
+{
+  "name": "solselector",
+  "version": "1.0.4",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sha3",
+    "daebak",
+    "0xdaebak",
+    "solidity",
+    "selector",
+    "yul",
+    "assembly",
+    "keccak256"
+  ],
+  "author": "0xdaebak <0xdaebak@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "js-sha3": "^0.8.0",
+    "solselector": "^1.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0xdaebak/solselector.git"
+  }
+}
