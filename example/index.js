@@ -1,5 +1,8 @@
 let selector = require("solselector");
 
+//By: 0xdaebak
+//https://github.com/0xdaebak
+
 let main = () => {
     //keccak256 hash
     let keccak256 = selector.keccak256("balanceOf()");
