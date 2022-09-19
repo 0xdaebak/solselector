@@ -1,6 +1,8 @@
 
 # solselector
 
+![](https://img.shields.io/npm/v/solselector?color=red&style=for-the-badge) ![](https://img.shields.io/github/package-json/v/0xdaebak/solselector?color=green&style=for-the-badge) ![](https://img.shields.io/badge/0xdaebak-alphaLeaks-red?style=for-the-badge)
+
 ⚓ Get The 4 byte Selector/Method Signature of any function
 
 
@@ -38,7 +40,7 @@ selector.getMultiSelector(["balanceOf()", "transferFrom(address,uint256)", "depo
 
 
 
-## Badges
+## License
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+![MIT License](https://img.shields.io/github/license/0xdaebak/solselector?style=for-the-badge)
 
